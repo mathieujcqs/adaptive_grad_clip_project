@@ -1,5 +1,4 @@
 import os
-import shutil
 import pathlib
 
 main_path = pathlib.Path().resolve()
