@@ -15,4 +15,5 @@ This work is based on the paper High-Performance Large-Scale Image Recognition W
 ## Citations
 
 [ 1 ] A. Brock, S. De, S. Smith, K. Simonyan (2021). High-Performance Large-Scale Image Recognition Without Normalization.
+
 [ 2 ] P. Sayak, Adaptive Gradient Clipping Repo:https://github.com/sayakpaul/Adaptive-Gradient-Clipping
